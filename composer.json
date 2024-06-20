@@ -1,0 +1,4 @@
+{
+    "name": "u302941464/public_html",
+    "require": {"phpoffice/phpspreadsheet": "^1.20"}
+}
